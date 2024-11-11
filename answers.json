@@ -1,0 +1,257 @@
+[
+    {
+        "type": "dropdown",
+        "question": "email addressemail address",
+        "answer": "vishaalchandrasekar0203@gmail.com"
+    },
+    {
+        "type": "dropdown",
+        "question": "phone country codephone country code",
+        "answer": "United States (+1)"
+    },
+    {
+        "type": "textbox",
+        "question": "mobile phone number",
+        "answer": "475-312-7388"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with python (programming language)?",
+        "answer": "4"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with microsoft azure?",
+        "answer": "4"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with machine learning?",
+        "answer": "4"
+    },
+    {
+        "type": "textbox",
+        "question": "first name",
+        "answer": "Vishaal"
+    },
+    {
+        "type": "textbox",
+        "question": "last name",
+        "answer": "N/A"
+    },
+    {
+        "type": "dropdown",
+        "question": "phone country codephone country code",
+        "answer": "United States (+1)"
+    },
+    {
+        "type": "textbox",
+        "question": "mobile phone number",
+        "answer": "475-312-7388"
+    },
+    {
+        "type": "dropdown",
+        "question": "email addressemail address",
+        "answer": "vishaalchandrasekar0203@gmail.com"
+    },
+    {
+        "type": "textbox",
+        "question": "address",
+        "answer": "31, Revere Dr"
+    },
+    {
+        "type": "textbox",
+        "question": "first name",
+        "answer": "Vishaal"
+    },
+    {
+        "type": "textbox",
+        "question": "last name",
+        "answer": "Vishaal Chandrasekar"
+    },
+    {
+        "type": "dropdown",
+        "question": "phone country codephone country code",
+        "answer": "United States (+1)"
+    },
+    {
+        "type": "textbox",
+        "question": "mobile phone number",
+        "answer": "+1 475-312-7388"
+    },
+    {
+        "type": "dropdown",
+        "question": "email addressemail address",
+        "answer": "vishaalchandrasekar0203@gmail.com"
+    },
+    {
+        "type": "textbox",
+        "question": "address",
+        "answer": "31, Revere Dr"
+    },
+    {
+        "type": "textbox",
+        "question": "headline",
+        "answer": "Vishaal Chandrasekar"
+    },
+    {
+        "type": "textbox",
+        "question": "summary",
+        "answer": "I am excited to apply for the Machine Learning Engineer position at your innovative company, where the commitment to technological advancement aligns perfectly with my career aspirations. With a Master\u2019s degree in Artificial Intelligence and hands-on experience as an Artificial Intelligence Engineer at Reframe Solutions, I have honed my skills in designing and deploying machine learning models that address complex business challenges. My recent project involved enhancing a Large Language Model for predictive analysis, achieving a performance rate ten times greater through the effective generation of synthetic data.\n\nIn my previous role, I collaborated closely with cross-functional teams, leveraging my expertise in Python and machine learning frameworks like TensorFlow and Scikit-Learn to develop solutions that drive data insights. I successfully constructed a generative AI infrastructure for a government platform, demonstrating my ability to implement and optimize model training processes while ensuring high performance and accuracy. My analytical mindset and problem-solving skills have consistently allowed me to contribute effectively to team objectives and deliver impactful results.\n\nI am particularly drawn to your mission of fostering growth and collaboration within a cutting-edge development environment. I believe my proactive approach and passion for staying updated on the latest trends in AI and machine learning will make me a valuable addition to your team. I look forward to the opportunity to discuss how my background and skills can contribute to the continued success of your organization."
+    },
+    {
+        "type": "textbox",
+        "question": "headline",
+        "answer": "Vishaal Chandrasekar"
+    },
+    {
+        "type": "textbox",
+        "question": "summary",
+        "answer": "I am excited to apply for the Machine Learning Engineer position at your company, where innovation and collaboration are at the heart of your mission. With a Master\u2019s degree in Artificial Intelligence and hands-on experience as an Artificial Intelligence Engineer at Reframe Solutions, I am eager to contribute to your team by leveraging my expertise in designing and deploying machine learning models that drive impactful solutions.\n\nIn my previous role, I constructed a generative AI infrastructure for a government platform that facilitated the registration of over 1,000 businesses, showcasing my ability to solve complex problems through advanced machine learning techniques. Additionally, I enhanced a Large Language Model for predictive analysis, achieving a tenfold increase in performance through innovative data generation methods. My proficiency in Python and experience with frameworks like TensorFlow and Scikit-Learn align perfectly with the technical requirements of this role.\n\nI am particularly drawn to your commitment to fostering an environment that encourages growth and cutting-edge development. I believe my analytical mindset and collaborative spirit will make me a valuable addition to your team. I look forward to the opportunity to discuss how my background and skills can contribute to your continued success in delivering tailored software solutions."
+    },
+    {
+        "type": "textbox",
+        "question": "first name",
+        "answer": "Vishaal"
+    },
+    {
+        "type": "textbox",
+        "question": "last name",
+        "answer": "N/A"
+    },
+    {
+        "type": "dropdown",
+        "question": "phone country codephone country code",
+        "answer": "United States (+1)"
+    },
+    {
+        "type": "textbox",
+        "question": "mobile phone number",
+        "answer": "475-312-7388"
+    },
+    {
+        "type": "dropdown",
+        "question": "email addressemail address",
+        "answer": "vishaalchandrasekar0203@gmail.com"
+    },
+    {
+        "type": "textbox",
+        "question": "citycity",
+        "answer": "Bloomfeild"
+    },
+    {
+        "type": "dropdown",
+        "question": "email addressemail address",
+        "answer": "vishaalchandrasekar0203@gmail.com"
+    },
+    {
+        "type": "dropdown",
+        "question": "phone country codephone country code",
+        "answer": "United States (+1)"
+    },
+    {
+        "type": "textbox",
+        "question": "mobile phone number",
+        "answer": "475-312-7388"
+    },
+    {
+        "type": "radio",
+        "question": "have you completed the following level of education: bachelor's degree?have you completed the following level of education: bachelor's degree?requiredyesno",
+        "answer": "no"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with tensorflow?",
+        "answer": "2"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with python (programming language)?",
+        "answer": "4"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with aws sagemaker?",
+        "answer": "2"
+    },
+    {
+        "type": "textbox",
+        "question": "first name",
+        "answer": "Vishaal"
+    },
+    {
+        "type": "textbox",
+        "question": "last name",
+        "answer": "N/A"
+    },
+    {
+        "type": "textbox",
+        "question": "mobile phone number",
+        "answer": "475-312-7388"
+    },
+    {
+        "type": "textbox",
+        "question": "address",
+        "answer": "31, Revere Dr"
+    },
+    {
+        "type": "textbox",
+        "question": "first name",
+        "answer": "Vishaal"
+    },
+    {
+        "type": "textbox",
+        "question": "last name",
+        "answer": "N/A"
+    },
+    {
+        "type": "textbox",
+        "question": "mobile phone number",
+        "answer": "475-312-7388"
+    },
+    {
+        "type": "textbox",
+        "question": "address",
+        "answer": "31, Revere Dr"
+    },
+    {
+        "type": "textbox",
+        "question": "mobile phone number",
+        "answer": "475-312-7388"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with python (programming language)?",
+        "answer": "4"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with apache spark?",
+        "answer": "2"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with large language models (llm)?",
+        "answer": "4"
+    },
+    {
+        "type": "radio",
+        "question": "will you now, or in the future, require sponsorship for employment visa status (e.g. h-1b visa status)?will you now, or in the future, require sponsorship for employment visa status (e.g. h-1b visa status)?requiredyesno",
+        "answer": "no"
+    },
+    {
+        "type": "textbox",
+        "question": "mobile phone number",
+        "answer": "475-312-7388"
+    },
+    {
+        "type": "dropdown",
+        "question": "emailemail",
+        "answer": "vishaalchandrasekar0203@gmail.com"
+    },
+    {
+        "type": "textbox",
+        "question": "phone",
+        "answer": "475-312-7388"
+    }
+]

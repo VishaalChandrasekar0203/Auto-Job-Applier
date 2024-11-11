@@ -1,0 +1,136 @@
+personal_information:
+  name: "Vishaal Chandrasekar"
+  surname: ""
+  date_of_birth: "03/02/2001"
+  country: "United States of America"
+  city: "Bloomfeild"
+  address: "31, Revere Dr "
+  zip_code: "06002"
+  phone_prefix: "+1"
+  phone: "475-312-7388"
+  email: "vishaalchandrasekar0203@gamil.com"
+  github: "https://github.com/VishaalChandrasekar0203"
+  linkedin: "https://www.linkedin.com/in/vishaalchandrasekar/"
+
+education_details:
+  - education_level: "Master's Degree"
+    institution: "University Of Bridgeport"
+    field_of_study: "Artificial Intelligence"
+    final_evaluation_grade: "3.67/4"
+    start_date: "2022"
+    year_of_completion: "2024"
+  - education_level: "Bachelor's Degree"
+    institution: "SRM University"
+    field_of_study: "Computer Science and Engineering"
+    final_evaluation_grade: "3.74/4"
+    start_date: "2018"
+    year_of_completion: "2022"
+    # exam:
+    #   exam_name_1: "[Grade]"
+    #   exam_name_2: "[Grade]"
+    #   exam_name_3: "[Grade]"
+    #   exam_name_4: "[Grade]"
+    #   exam_name_5: "[Grade]"
+    #   exam_name_6: "[Grade]"
+
+experience_details:
+  - position: "Artificial Intelligence Engineer"
+    company: "Reframe Solutions"
+    employment_period: "05/2023 - 12/2023"
+    location: "Windsor, Connecticut"
+    industry: "Product / Technology"
+    key_responsibilities:
+      - responsibility_1: "Constructed a small-scale, generative AI infrastructure with the assistance of a product engineer for a government business registration platform where more than 1000 live businesses have been registered online (GPT2)"
+      - responsibility_2: "Leveraged advanced expertise in machine learning algorithms to design and implement a specialized interface facilitating smooth and efficient transfer of data from Azure to SQL server database, utilizing specialized interfaces seamlessly"
+      - responsibility_3: "Enhanced a Large Language Model (LLM) to implement GPT 3.5 for predictive analysis on Campaign Financing data, achieving a performance rate 10 times greater through the effective generation of synthetic data using diffusion models"
+    skills_acquired:
+      - "Python"
+      - "OpenAI API"
+      - "AI modelling and Deploying"
+
+  - position: "Data Scientist Intern"
+    company: "Mastech Infortrellis"
+    employment_period: "01/2022 - 06/2022"
+    location: "Chennai, India"
+    industry: "Big Data"
+    key_responsibilities:
+      - responsibility_1: "Led the comprehensive analysis of the Costco dataset regarding rental/vacation package issues utilizing Python, Power BI, IBM Cognos, and Tableau, showcasing adeptness in data analytics and visualization tools"
+      - responsibility_2: "Conducted in-depth analysis of Dexcom healthcare data (pharmaceutical data), to identify product issues by analyzing customer feedback and utilized advanced techniques such as the implementation of a decomposition tree to extract actionable insights"
+      - responsibility_3: "Primarily contributed to the development of a foundational Python ML codebase tailored for general data analysis purposes, showcasing proficiency in programming and data manipulation techniques"
+    skills_acquired:
+      - "Data Engineering"
+      - "ML Algorithms"
+      - "Data visualization"
+
+projects:
+  - name: "Ensuring Secure Bedtime Stories: Controlling Large Language models against adversarial attacks at children’s narratives"
+    description: "Implemented robust adversarial AI control mechanisms (diffusion models) for a children’s bedtime storytelling generative AI, integrating cutting-edge technologies such as Tokenizer, autoencoder, one-class SVM, Meta LLAMA 2, and GPT-2, with a specific emphasis on mitigating RLHF (Reinforcement Learning from Human Feedback), ensuring safe and appropriate content generation"
+    link: "https://github.com/VishaalChandrasekar0203/Controlling-Adversary-AI"
+
+  - name: "Face Detection and Image Recognition with python - Vishaal Chandrasekar. International Journal of Science and Research(IJSR), Volume 10, Issue 3"
+    description: "Researched and implemented face detection and recognition using Python and OpenCV leveraging the haar Cascade algorithm for detection and the local binary pattern histogram algorithm for recognition. Explored the multifaceted application of artificial intelligence and machine learning, showcasing their roles in advanced computer vision, image analysis, and edge detection technology"
+    link: "https://www.ijsr.net/search_index_results_paperid.php?id=SR21128195050"
+
+# achievements:
+#   - name: "[Achievement Name]"
+#     description: "[Achievement Description]"
+#   - name: "[Achievement Name]"
+#     description: "[Achievement Description]"
+
+certifications:
+  - name: "Oracle Cloud Infrastructure Developer 2020 Certified Associate"
+    description: "Oracle - Issued Aug 2020"
+  - name: "Artificial Intelligence Infrastructure"
+    description: "Microsoft - Natural Language Processing (NLP)"
+
+languages:
+  - language: "English"
+    proficiency: "Fluent"
+  - language: "Tamil"
+    proficiency: "Fluent"
+
+interests:
+  - "Artificial Intelligence"
+  - "Machine Learning"
+  - "Data Engineering"
+
+availability:
+  notice_period: "2 weeks"
+
+salary_expectations:
+  salary_range_usd: "80000 - 120000"
+
+self_identification:
+  gender: "Male"
+  pronouns: "he/him"
+  veteran: "No"
+  disability: "No"
+  ethnicity: "Asian"
+
+
+legal_authorization:
+  eu_work_authorization: "No"
+  us_work_authorization: "Yes"
+  requires_us_visa: "Yes"
+  requires_us_sponsorship: "Yes"
+  requires_eu_visa: "Yes"
+  legally_allowed_to_work_in_eu: "No"
+  legally_allowed_to_work_in_us: "Yes"
+  requires_eu_sponsorship: "Yes"
+  canada_work_authorization: "No"
+  requires_canada_visa: "Yes"
+  legally_allowed_to_work_in_canada: "No"
+  requires_canada_sponsorship: "Yes"
+  uk_work_authorization: "No"
+  requires_uk_visa: "Yes"
+  legally_allowed_to_work_in_uk: "No"
+  requires_uk_sponsorship: "Yes"
+
+
+work_preferences:
+  remote_work: "Yes"
+  in_person_work: "Yes"
+  open_to_relocation: "Yes"
+  willing_to_complete_assessments: "Yes"
+  willing_to_undergo_drug_tests: "Yes"
+  willing_to_undergo_background_checks: "Yes"
